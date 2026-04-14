@@ -79,7 +79,7 @@ This level of openness makes the platform’s decisions easy to trust.
 
 🏗️ Architecture Overview
 
-this platform has a modular, event-driven setup that fits right into modern enterprise cloud environments. Each layer stays separate and tidy, so you get solid integrations without everything turning into a tangled mess. It pulls together multi-cloud data ingestion, smart orchestration, flexible governance workflows, and enforcement tools—all in one place, but nothing locked tightly together. If any piece stumbles, the rest keeps going, and you can swap in improvements as you go.
+This platform has a modular, event-driven setup that fits right into modern enterprise cloud environments. Each layer stays separate and tidy, so you get solid integrations without everything turning into a tangled mess. It pulls together multi-cloud data ingestion, smart orchestration, flexible governance workflows, and enforcement tools—all in one place, but nothing locked tightly together. If any piece stumbles, the rest keeps going, and you can swap in improvements as you go.
 
 The approach borrows all the good stuff from enterprise architecture: domain-driven design, async processing, and solid platform engineering. Layers are independent and communicate through clear interfaces and events. So if you want to crank up anomaly detection or change how policies work, you do it where it matters—no need to tiptoe around the rest of the system.
 
@@ -91,7 +91,7 @@ The real win is flexibility. You can use just what you need—maybe today it’s
 
 🔁 End-to-End Workflow
 
-this platform doesn’t just tick boxes—it runs on a live feedback loop. Spot a spike or an inefficiency? The system jumps in: it detects the blip, kicks off analysis, builds context using historical data and resource ownership, and figures out what went wrong. If the issue’s just a random hiccup, it gets routed to the right team. If it’s something deeper, the workflow escalates.
+It doesnot just tick boxes—it runs on a live feedback loop. Spot a spike or an inefficiency? The system jumps in: it detects the blip, kicks off analysis, builds context using historical data and resource ownership, and figures out what went wrong. If the issue’s just a random hiccup, it gets routed to the right team. If it’s something deeper, the workflow escalates.
 
 You get fast answers: who owns the problem, how bad it is, and what to do about it. Everything plugs into tools teams already use, like Jira, so issues get tracked from end to end.
 
