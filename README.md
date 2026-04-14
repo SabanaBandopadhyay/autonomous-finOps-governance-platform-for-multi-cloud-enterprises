@@ -6,6 +6,8 @@ As businesses spread their operations across multiple clouds, keeping cloud cost
 
 this platform shifts all this by leading with governance and putting intelligent agents at the heart of the process. It doesn’t just send you a bunch of insights—instead, it grabs raw cost and usage data and translates it into action. These agents work across the entire FinOps process: they assign clear accountability, fix problems at the source, and keep things tightening up over time.
 
+<img src="/image.png" width="900"/>
+
 🎯 Purpose & Vision
 
 What’s this platform really for? It aims to weave FinOps directly into daily operations—boldly embedding cost management into engineering, finance, and platform teams. this platform isn’t just about spotting surprising expenses. It’s about turning every cost issue into real solutions and permanent improvements.
